@@ -8,6 +8,6 @@ soma = sum(lista)
 
 quantidade = len(lista)
 
-media = soma
+media = soma / quantidade
 
 print(f'{media:.1f}')
